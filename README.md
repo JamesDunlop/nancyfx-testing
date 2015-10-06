@@ -5,8 +5,13 @@
 * Further change
 * And another
 * And another
+<<<<<<< HEAD
 * Another on master
 * And another on master
 * Separate change on master remotely
 * Clean up
 * More
+=======
+* And another
+* Remote change on test branch
+>>>>>>> 9abe80adcd0d645bdd55c989aeaaf7c6c646ace5
