@@ -12,5 +12,10 @@
 * Clean up
 * More
 * And another
+<<<<<<< HEAD
 * and 
 * one more
+=======
+* Remote change on test branch
+* Remote chng brnch
+>>>>>>> 4aa057b2ef9ece1ea43b54612b94b012894c4659
