@@ -7,3 +7,4 @@
 * And another
 * And another
 * Change on remote branch
+* Other change on remote branch
